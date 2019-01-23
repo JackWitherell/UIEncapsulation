@@ -1,0 +1,149 @@
+{
+  "xloc": 0,
+  "color": -16777216,
+  "objWidth": 250,
+  "uiObjects": [
+    {
+      "xloc": 16,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 27,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 38,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 49,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 60,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 71,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 82,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 93,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 104,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 115,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 126,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 137,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 148,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 159,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 170,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 181,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 192,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 203,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 214,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    },
+    {
+      "xloc": 225,
+      "filename": "data/box.png",
+      "objWidth": 10,
+      "yloc": 30,
+      "objHeight": 10
+    }
+  ],
+  "yloc": 0,
+  "objHeight": 250
+}
